@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+@import url('base.css');
+
+
+/* content */
+
+#content h3{margin-bottom:11px;}
+#content .e_list{overflow:hidden;margin-bottom:47px;}
+#content .e_list li{float:left;width:240px;height:318px;margin-right:11px;padding:1px 5px 5px 1px ;background:url(../images/event/bg_list.gif) no-repeat 0 0;}
+
+#content .e_list li.last{margin-right:0;}
+#content .e_list li dl{width:208px;height:104px;padding:19px 16px 15px; background:#f2f2f2;}
+#content .e_list li dl dt {overflow:hidden; height:29px;padding-bottom:14px;border-bottom:1px dashed #a3a3a3;}
+#content .e_list li dl dt a{font-size:12px;color:#333;line-height:1.2;}
+#content .e_list li dl dd{margin-top:14px;font-size:12px;}
+#content .e_list li dl dd.btn{margin-left:65px;}

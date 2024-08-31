@@ -1,0 +1,3 @@
+#tomatowrap .shadow {display:none;}
+#tomatowrap .shadow img {filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled='true',sizingMethod='scale',src='../images/main/shadow.png');}
+#s1area .pngfix {filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled='true',sizingMethod='scale',src='../images/main/scene1_text.png');}
